@@ -9,7 +9,7 @@ fluidPage(
     withMathJax(),
     
     ## Application title
-    titlePanel("Sample size calculation for diseased unit detection."),
+    titlePanel("Sample size calculation for infected unit detection."),
     
     sidebarLayout(
         ## Sidebar with a slider input
